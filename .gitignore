@@ -1,0 +1,10 @@
+# Ignore local Python artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+.build/
+.venv/
+
+# Logs
+logs/
+*.log
